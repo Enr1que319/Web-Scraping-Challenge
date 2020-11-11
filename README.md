@@ -34,6 +34,8 @@ The following tools were used to do scrapping, web page and deployment
 + MongoDB
 + Jupyter Notebook
 + HTML
+    + Bootstrap
+    + Ajax
 
 Below you can see a few screenshots of the web page. Or you can visit it [here](https://enr1que319-mars-scrapper.herokuapp.com "Mars Scrapper")
 
