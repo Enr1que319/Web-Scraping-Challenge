@@ -35,10 +35,9 @@ The following tools were used to do scrapping, web page and deployment
 + Jupyter Notebook
 + HTML
 
+Below you can see a few screenshots of the web page. Or you can visit it [here](https://enr1que319-mars-scrapper.herokuapp.com "Mars Scrapper")
 
-
-
-
-Here are the result:
-
-- [Mars Scrapper](https://enr1que319-mars-scrapper.herokuapp.com "Mars Scrapper")
+[![](Screenshots/1.png)]()
+[![](Screenshots/2.png)]()     
+[![](Screenshots/3.png)]()     
+[![](Screenshots/4.png)]()     
